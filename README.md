@@ -1,4 +1,4 @@
-# Image-Panning
+# profile_card
 Image Panning Assignment
 
 # Add following code in AndroidManifest.xml for Image Croping functionality in Android
@@ -16,3 +16,4 @@ Image Panning Assignment
     <string>Upload image from camera for screen background</string>
     <key>NSMicrophoneUsageDescription</key>
     <string>Post videos to profile</string>
+
